@@ -1,8 +1,6 @@
-from src.main.com.tw.ddd_workshop.domain.catalog import Catalog
-from src.main.com.tw.ddd_workshop.domain.item import Item
-from src.main.com.tw.ddd_workshop.domain.price import Price
-from src.main.com.tw.ddd_workshop.domain.product import Product
-from src.main.com.tw.ddd_workshop.domain.shopping_cart import ShoppingCart
+from src.main.com.tw.ddd_workshop.domain.shopping.catalog import Catalog
+from src.main.com.tw.ddd_workshop.domain.shopping.price import Price
+from src.main.com.tw.ddd_workshop.domain.shopping.shopping_cart import ShoppingCart
 
 
 def run():

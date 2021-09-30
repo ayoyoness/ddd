@@ -1,4 +1,4 @@
-from src.main.com.tw.ddd_workshop.domain.price import Price
+from src.main.com.tw.ddd_workshop.domain.shopping.price import Price
 
 
 class Product:

@@ -1,4 +1,4 @@
-from src.main.com.tw.ddd_workshop.domain.product import Product
+from src.main.com.tw.ddd_workshop.domain.shopping.product import Product
 
 
 # separate cclas
